@@ -1,0 +1,25 @@
+{
+    "textboxField" :
+    [
+        "Name:", "Email:", "Subject:"
+    ],
+
+    "messageBox" : "Message",
+
+
+    "contactInfo" :
+    [
+        {
+            "label" : "Address: ",
+            "content" : "123 Lorem Ipsum Cove, Sed Ut City, LI 12345"
+        },
+        {
+            "label" : "Phonbe Number: ",
+            "content" : "1-800-999-9999"
+        },
+        {
+            "label" : "Fax Number: ",
+            "content" : "1-800-111-1111"
+        }
+    ]
+}

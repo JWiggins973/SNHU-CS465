@@ -1,0 +1,17 @@
+[
+    {
+        "name" : " Seafood Special",
+        "image" : "seafoods.jpg",
+        "info" : "Fried Salmon Special"
+    },
+    {
+        "name" : "Sumptuous Desserts",
+        "image" : "desserts.jpg",
+        "info" : "Choco Ice Cream Sandwich"
+    },
+    {
+        "name" : "Buffet",
+        "image" : "buffet.jpg",
+        "info" : "Mixed Buffet"
+    }
+]
