@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { AddTripComponent } from './add-trip/add-trip'
+import { AddTripComponent } from './add-trip/add-trip';
 import { TripListing } from './trip-listing/trip-listing';
 import { EditTripComponent } from './edit-trip/edit-trip';
 

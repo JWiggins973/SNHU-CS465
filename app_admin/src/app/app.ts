@@ -1,5 +1,5 @@
 import { Component, signal } from '@angular/core';
-import {CommonModule} from '@angular/common';
+import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
 import { TripListing } from './trip-listing/trip-listing';
 
