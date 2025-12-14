@@ -2,6 +2,7 @@ import { Routes } from '@angular/router';
 import { AddTripComponent } from './add-trip/add-trip';
 import { TripListing } from './trip-listing/trip-listing';
 import { EditTripComponent } from './edit-trip/edit-trip';
+import { Login } from './login/login';
 
 export const routes: Routes = [
     {
@@ -14,5 +15,9 @@ export const routes: Routes = [
 
     {
         path: '', component: TripListing, pathMatch: 'full'
+    },
+    {
+        path: 'login', component: Login
     }
+
 ];

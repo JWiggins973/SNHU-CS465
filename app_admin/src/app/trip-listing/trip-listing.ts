@@ -4,6 +4,8 @@ import { CommonModule } from '@angular/common';
 import { Trip } from '../models/trip';
 import { TripCard } from '../trip-card/trip-card';
 import { TripDataServices } from '../services/trip-data';
+import { Authentication } from '../services/authentication';
+
 
 import { Router } from '@angular/router';
 
@@ -13,7 +15,7 @@ import { Router } from '@angular/router';
   imports: [CommonModule, TripCard],
   templateUrl: './trip-listing.html',
   styleUrl: './trip-listing.css',
-  // providers: [TripDataServices]
+  providers: [TripDataServices]
 })
 
 export class TripListing implements OnInit {
@@ -23,7 +25,8 @@ export class TripListing implements OnInit {
   constructor(
     private tripDataService: TripDataServices,
     private router: Router,
-    private cdr: ChangeDetectorRef // detects changes
+    private cdr: ChangeDetectorRef, // detects changes
+    private authenticationService: Authentication
   ) {
     console.log('trip-listing constructor');
   }
@@ -54,6 +57,10 @@ export class TripListing implements OnInit {
           console.log('Error: ' + error);
         }
       })
+  }
+
+  public isLoggedIn() {
+    return this.authenticationService.isLoggedIn();
   }
 
 
