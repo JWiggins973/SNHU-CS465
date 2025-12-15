@@ -16,7 +16,7 @@ This project adds MEAN stack functionality to a static webpage. Users can view a
 
 ### Installation Steps
 - Clone or download this repository
-[here](https://github.com/JWiggins973/SNHU-CS465/tree/module7)
+[here](https://github.com/JWiggins973/SNHU-CS465/archive/refs/heads/module7.zip)
 
 - Install backend dependencies
 ```bash
@@ -39,7 +39,7 @@ npm serve
 
 # 	Open a browser and navigate to
 http://localhost:4200
-
+http://localhost:3000
 
 ## Tools (HyperLink to download) 🛠️
 - [MongoDB](https://www.mongodb.com/) – NoSQL database for storing application data  
