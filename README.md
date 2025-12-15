@@ -13,12 +13,15 @@ This project adds MEAN stack functionality to a static webpage. Users can view a
 
 
 ## To get a local copy up and running follow these steps 🏃💨 
+
 ### Installation Steps
 - Clone or download this repository
-- Install backend dependencies:
-  ```bash
-  npm install
-  ```
+[here](https://github.com/JWiggins973/SNHU-CS465.git)
+
+- Install backend dependencies
+```bash
+npm install
+```
 
 # Navigate to the the Angular client and install dependencies
 ```bash  
