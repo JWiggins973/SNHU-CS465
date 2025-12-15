@@ -1,8 +1,8 @@
 # SNHU-CS465
-Contains my final project for the term(Mean Stack application)
+Contains my final project for the term( Travel website with Mean Stack application)
 
 ## Functionality and Purpose
-This project adds MEAN stack functionality to a static webpage. Users can view and manage data through Angular, with MongoDB storing data and Node.js/Express handling the backend.
+For this project, I added MEAN stack functionality to a static webpage and built a single-page application (SPA). Users of the static HTML/Handlebars frontend can view data provided by the backend, while users of the Angular SPA can both view and manage data dynamically. Angular handles frontend interactions, MongoDB stores the data, and Node.js/Express manage backend operations.  
 - [Full-Stack MEAN Guide (SNHU)](https://learn.snhu.edu/d2l/lor/viewer/viewFile.d2lfile/2074342/24341,-1/)
 
 ## Preview 👀
