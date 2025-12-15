@@ -38,8 +38,8 @@ npm serve
 ```
 
 # Open a browser and navigate to
-- Single page app (Angular): [http://localhost:4200](http://localhost:4200)  
-- Travlr site (API/Server): [http://localhost:3000](http://localhost:3000)
+- Single page app: [http://localhost:4200](http://localhost:4200)  
+- Travlr site: [http://localhost:3000](http://localhost:3000)
 
 ## Tools (HyperLink to download) 🛠️
 - [MongoDB](https://www.mongodb.com/) – NoSQL database for storing application data  
