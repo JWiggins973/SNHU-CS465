@@ -16,7 +16,7 @@ This project adds MEAN stack functionality to a static webpage. Users can view a
 
 ### Installation Steps
 - Clone or download this repository
-[here](https://github.com/JWiggins973/SNHU-CS465.git)
+[here](https://github.com/JWiggins973/SNHU-CS465/tree/module7)
 
 - Install backend dependencies
 ```bash
