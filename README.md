@@ -37,9 +37,9 @@ npm start
 npm serve
 ```
 
-# 	Open a browser and navigate to
-http://localhost:4200
-http://localhost:3000
+# Open a browser and navigate to
+- Single page app (Angular): [http://localhost:4200](http://localhost:4200)  
+- Travlr site (API/Server): [http://localhost:3000](http://localhost:3000)
 
 ## Tools (HyperLink to download) 🛠️
 - [MongoDB](https://www.mongodb.com/) – NoSQL database for storing application data  
