@@ -1,6 +1,9 @@
 # SNHU-CS465
-CS-465 FullStack with MEAN
-## Functionality and purpose
+Contains my final project for the term(Mean Stack application)
+
+## Functionality and Purpose
+This project adds MEAN stack functionality to a static webpage. Users can view and manage data through Angular, with MongoDB storing data and Node.js/Express handling the backend.
+- [Full-Stack MEAN Guide (SNHU)](https://learn.snhu.edu/d2l/lor/viewer/viewFile.d2lfile/2074342/24341,-1/)
 
 ## Preview 👀
 <img src="Preview/example1.mov" width="500"/>
@@ -10,15 +13,44 @@ CS-465 FullStack with MEAN
 
 
 ## To get a local copy up and running follow these steps 🏃💨 
-- Download zip file
+### Installation Steps
+- Clone or download this repository
+- Install backend dependencies:
+  ```bash
+  npm install
+  ```
+
+# Navigate to the the Angular client and install dependencies
+```bash  
+npm install
+```
+# Start backend server
+```bash
+npm start
+```
+
+# Start Angular application
+```bash
+npm serve
+```
+
+# 	Open a browser and navigate to
+http://localhost:4200
 
 
 ## Tools (HyperLink to download) 🛠️
-  - [MongoDB](https://www.mongodb.com/try/download/community) – database for storing data
+- [MongoDB](https://www.mongodb.com/) – NoSQL database for storing application data  
+- [Express.js](https://expressjs.com/) – backend web framework  
+- [Angular](https://angular.io/) – frontend framework  
+- [Node.js](https://nodejs.org/) – JavaScript runtime environment  
+- [Postman](https://www.postman.com/) – API testing and debugging 
+
   
 
-## Additional Resources 📚
-
+## Additional Resources 📚	
+- [Mongoose](https://mongoosejs.com/) – schema-based MongoDB object modeling
+- [RESTful APIs](https://restfulapi.net/) – structured client–server communication
+- [Angular Services](https://angular.io/guide/architecture-services) – frontend data handling
 
 ## Journal 📝
 
