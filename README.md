@@ -41,7 +41,7 @@ npm serve
 - Single page app: [http://localhost:4200](http://localhost:4200)  
 - Travlr site: [http://localhost:3000](http://localhost:3000)
 
-## Tools 🛠️
+## Tools 
 - [MongoDB](https://www.mongodb.com/) – NoSQL database for storing application data  
 - [Express.js](https://expressjs.com/) – backend web framework  
 - [Angular](https://angular.io/) – frontend framework  
