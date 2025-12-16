@@ -18,7 +18,7 @@ For this project, I added MEAN stack functionality to a static webpage and built
 - Clone or download this repository
 [here](https://github.com/JWiggins973/SNHU-CS465/archive/refs/heads/module7.zip)
 
-- Install here(#tools-)
+- Install dependencies here (# tools-)
 ```bash
 npm install
 ```
