@@ -18,7 +18,7 @@ For this project, I added MEAN stack functionality to a static webpage and built
 - Clone or download this repository
 [here](https://github.com/JWiggins973/SNHU-CS465/archive/refs/heads/module7.zip)
 
-- Install dependencies [Tools 🛠️](#tools-)
+- Install dependencies [Tools 🛠️](#tools)
 ```bash
 npm install
 ```
@@ -41,7 +41,7 @@ npm serve
 - Single page app: [http://localhost:4200](http://localhost:4200)  
 - Travlr site: [http://localhost:3000](http://localhost:3000)
 
-## Tools 
+## Tools 🛠️
 - [MongoDB](https://www.mongodb.com/) – NoSQL database for storing application data  
 - [Express.js](https://expressjs.com/) – backend web framework  
 - [Angular](https://angular.io/) – frontend framework  
