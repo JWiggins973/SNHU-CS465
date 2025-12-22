@@ -3,7 +3,7 @@ Contains my final project for the term( Travel website with Mean Stack applicati
 
 ## Functionality and Purpose
 For this project, I added MEAN stack functionality to a static webpage and built a single-page application (SPA). Users of the static HTML/Handlebars frontend can view data provided by the backend, while users of the Angular SPA can both view and manage data dynamically. Angular handles frontend interactions, MongoDB stores the data, and Node.js/Express manage backend operations.  
-- [Full-Stack MEAN Guide (SNHU)](FullStackGuide.pdf)
+- [Full-Stack MEAN Guide (SNHU)](CS465FullStackGuide.pdf)
 
 ## Preview 👀
 <img src="Preview/example1.mov" width="500"/>
