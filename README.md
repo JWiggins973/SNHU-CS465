@@ -9,7 +9,7 @@ For this project, I added MEAN stack functionality to a static webpage and built
 <img src="Preview/example1.mov" width="500"/>
 <img src="Preview/example2.mov" width="400"/>
 <img src="Preview/example3.png" width="400"/>
-<img src="Preview/example3.png" width="400"/>
+<img src="Preview/example4.png" width="400"/>
 
 
 ## To get a local copy up and running follow these steps 🏃💨 
