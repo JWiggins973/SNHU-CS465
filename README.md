@@ -61,7 +61,7 @@ npm serve
 
 * **Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).**
 
-  The front development two different client side applications, the travlr website used an express  to display JavaScript, html, and handlebar in the browser. While the admin page utilized angular and a single page application. For the travlr website it has each part of the site organized into routes, views, and static files instead of components, and it delivers full pages from the server or handlebar templates with the database data injected.  For the SPA the UI structured into smaller pieces called components and when combined renders the full webpage. On the initial visit the SPA loads all the data and updates dynamically without having to reload the webpage.
+  The front end development uses two different client side applications. The travlr website uses express  to display JavaScript, html, and handlebar in the browser, while the admin page utilizes angular to display the single page application. For the travlr website it has each part of the site organized into routes, views, and static files instead of components, and it delivers full pages from the server or handlebar templates with the database data injected.  For the SPA the UI structured into smaller pieces called components and when combined renders the full webpage. On the initial visit the SPA loads all the data and updates dynamically without having to reload the webpage.
 
 * **Why did the backend use a NoSQL MongoDB database?**
 
